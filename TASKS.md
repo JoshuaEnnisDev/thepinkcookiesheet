@@ -2,7 +2,7 @@
 
 ## 🚀 Phase 1: Project Setup (Start Here)
 
-- [ ] Create Django project: `django-admin startproject the_pink_cookie_sheet`
+- [ ] Create Django project: `django-admin startproject pink_cookie_sheet`
 - [ ] Create bookings app: `python manage.py startapp pink_cookie_sheet`
 - [ ] Add pink_cookie_sheet to INSTALLED_APPS in settings.py
 - [ ] Install Tailwind CSS with npm
