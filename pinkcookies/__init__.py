@@ -1,0 +1,1 @@
+"""pinkcookies project package"""
