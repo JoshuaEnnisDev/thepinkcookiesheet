@@ -18,35 +18,7 @@ A modern booking system built with Django and Tailwind CSS that allows customers
 - **Database**: SQLite (development) / PostgreSQL (production)
 - **Python**: 3.10+
 
-## Project Structure
 
-```
-booking_project/
-├── manage.py
-├── booking_project/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── bookings/
-│   ├── migrations/
-│   ├── templates/
-│   │   └── bookings/
-│   │       ├── base.html
-│   │       ├── home.html
-│   │       ├── booking_form.html
-│   │       └── booking_success.html
-│   ├── static/
-│   │   └── css/
-│   │       └── output.css
-│   ├── models.py
-│   ├── views.py
-│   ├── forms.py
-│   └── urls.py
-├── requirements.txt
-├── tailwind.config.js
-└── package.json
-```
 
 ## Quick Start
 
